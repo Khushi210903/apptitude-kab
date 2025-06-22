@@ -2,10 +2,6 @@
 
 Aptitude Kab is a modern web application designed to enhance your aptitude learning experience. It leverages cutting-edge technologies to deliver an interactive and engaging user interface.
 
-## 🚀 Live Demo
-
-[**Aptitude Kab Live Link**](https://aptitudekab.netlify.app/)
-
 ## 📂 Features
 
 - **Interactive User Interface:** Designed with Tailwind CSS for responsive and attractive layouts.
